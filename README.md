@@ -14,10 +14,5 @@ This theme puts all the status information on one line then has a clean command 
 2. Copy the **mau.zsh-theme** file to your *$HOME/.oh-my-zsh/themes* directory.
 3. Open your *$HOME/.zshrc* file.
 4. Set the **ZSH_THEME** variable to **mau**, then save the file.
-5. Source your *$HOME/.zsh* file by runninng 
-    
-    ```
-    . $HOME/.zshrc
-    ```
-    
-4. Revel in the fun that is Oh My Zsh with **mau**
+5. Run `source $HOME/.zshrc`
+6. Revel in the fun that is Oh My Zsh with **mau**

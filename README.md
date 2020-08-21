@@ -16,3 +16,7 @@ This theme puts all the status information on one line then and has a clean comm
 4. Set the **ZSH_THEME** variable to **mau**, then save the file.
 5. Run `source $HOME/.zshrc`
 6. Revel in the fun that is Oh My Zsh with **mau**
+
+## Credits
+
+Thanks to  [Tao Wang](https://github.com/vichargrave/mau/issues?q=is%3Apr+author%3Atwang2218) for the updates with feline emojis and other colorful tidbits. 

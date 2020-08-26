@@ -19,4 +19,4 @@ This theme puts all the status information on one line then and has a clean comm
 
 ## Credits
 
-Thanks to  [Tao Wang](https://github.com/vichargrave/mau/issues?q=is%3Apr+author%3Atwang2218) for the updates with feline emojis and other colorful tidbits. 
+Thanks to  [Tao Wang](https://github.com/vichargrave/mau/issues?q=is%3Apr+author%3Atwang2218) for the colorful tidbits. 

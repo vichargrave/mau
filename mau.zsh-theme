@@ -1,7 +1,7 @@
 # mau.zsh-theme - combining the best of kphoen and smt zsh themes with a little cat twist
 
 if [[ "$TERM" != "dumb" ]] && [[ "$DISABLE_LS_COLORS" != "true" ]]; then
-    MAU_PROMPT="%(?.😸.😹)"
+    MAU_PROMPT="猫"
     PROMPT='[%{$fg[red]%}%n%{$reset_color%}@%{$fg[magenta]%}%m%{$reset_color%}:%{$fg[blue]%}%~%{$reset_color%}$(git_prompt_short_sha)$(git_prompt_info)]
 $MAU_PROMPT '
 

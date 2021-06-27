@@ -1,12 +1,11 @@
 # mau 
 
-I use [Oh My Zsh](http://ohmyz.sh/) for my command line in [iTerm](https://www.iterm2.com/) on the Mac and other *linx distros.  
-**mau** is an Oh My Zsh theme that I hacked together combining the best of the _kphoen_ and _smt_ themes.  **mau** is the English 
+I use [Oh My Zsh](http://ohmyz.sh/) for my command line in [iTerm](https://www.iterm2.com/) on the Mac and other *linx distros.  **mau** is an Oh My Zsh theme that I hacked together combining the best of the _kphoen_ and _smt_ themes.  **mau** is the English 
 literation of the Chinese word for _cat_.  
 
 This theme puts all the status information on one line then and has a clean command line with cat prmpt emoji.
 
-![alt text](https://github.com/vichargrave/mau.zsh-theme/blob/master/mau.zsh-theme.png)
+![alt text](./mau.zsh-theme.png)
 
 ## Installing **mau**
 

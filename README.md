@@ -4,7 +4,7 @@ I use [Oh My Zsh](http://ohmyz.sh/) for my command line in [iTerm](https://www.i
 **mau** is an Oh My Zsh theme that I hacked together combining the best of the _kphoen_ and _smt_ themes.  **mau** is the English 
 literation of the Chinese word for _cat_.  
 
-This theme puts all the status information on one line then and has a clean command line with cat prmpt emoji.
+This theme puts all the status information on one line then and has a clean command line with the Chinese character for cat.
 
 ![alt text](./mau.zsh-theme.png)
 

@@ -19,7 +19,7 @@ This theme puts all the status information on one line then and has a clean comm
 
 ## Community
 
-**mau** is included in the [awesome-zsh-plugin](https://github.com/unixorn/awesome-zsh-plugins) themes.
+**mau** is included in the [awesome-zsh-plugin](https://github.com/unixorn/awesome-zsh-plugins#themes) themes.
 
 ## Credits
 
